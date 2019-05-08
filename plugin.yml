@@ -1,0 +1,9 @@
+ name: spawners
+ version: 1
+ description: This plugin allows silk touch to break spawners
+ author: crooks
+ api-version: 1.14
+ website: nope
+ main: spawners.main
+ database: false
+ depend: []
